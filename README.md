@@ -1,2 +1,9 @@
 # streamlit-mini-course
-repo is a short course on how to efficiently work with streamlit . 
+
+Repo contains an introductory course on "How to efficiently work with streamlit ? "
+
+streamlit commands : 
+st.write() aka "Magic command"
+
+
+
